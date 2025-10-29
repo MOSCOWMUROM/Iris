@@ -15,6 +15,7 @@
 
 <img width="248" height="203" alt="image" src="https://github.com/user-attachments/assets/a1f9264c-4846-4c69-919a-ae9909537eee" />
 
+Красивый попробуем их классифицировать.
   
 ---
 
@@ -61,3 +62,4 @@
 
 ---
 
+https://colab.research.google.com/drive/1LQwkxxs3PLZZZCMRmRjQOIETvosEh64A#scrollTo=88SeaGLD9lPQ
