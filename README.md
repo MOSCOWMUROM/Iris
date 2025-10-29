@@ -19,7 +19,7 @@
 
 <img width="248" height="203" alt="image" src="https://github.com/user-attachments/assets/a1f9264c-4846-4c69-919a-ae9909537eee" />
 
-Красивый попробуем их классифицировать.
+Красивый. Попробуем их классифицировать.
   
 ---
 
